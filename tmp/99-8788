@@ -1,6 +1,7 @@
 ---
 name: review-amp
 description: Review code using the Amp CLI tool and optionally fix identified issues
+disable-model-invocation: true
 ---
 
 # Review using Amp

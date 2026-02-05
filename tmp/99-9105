@@ -1,4 +1,3 @@
-
 ---
 name: dev-script
 description: Generate a dev.sh script that uses tmux to manage development services (dev server, database, etc.) with flags for clean, restart, down, and db-only modes.
