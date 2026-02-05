@@ -1,6 +1,7 @@
 --
 name: fix-agents
 description: Refactor AGENTS.md to follow progressive disclosure principles by grouping related instructions into separate files.
+argument-hint: "[AGENTS.md]"
 disable-model-invocation: true
 ---
 
