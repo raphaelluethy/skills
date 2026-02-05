@@ -1,3 +1,9 @@
+--
+name: fix-agents
+description: Refactor AGENTS.md to follow progressive disclosure principles by grouping related instructions into separate files.
+disable-model-invocation: true
+---
+
 I want you to refactor my AGENTS.md file to follow progressive disclosure principles.
 
 Follow these steps:
